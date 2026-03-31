@@ -1,0 +1,146 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#campus-1": {
+            "scaleInDock": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json": {
+            "scale": 0.125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 6540,
+                "y": 2208
+            }
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json#bldg1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg2.json": {
+            "scale": 0.17764096467391305,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2879.403413165065,
+                "y": 1598.730340838472
+            }
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg2.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg2.json#bldg2": {
+            "scaleInDock": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg3.json": {
+            "scale": 0.17764096467391305,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2879.403413165065,
+                "y": 1598.730340838472
+            }
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg3.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg3.json#bldg3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg4.json": {
+            "scale": 0.17764096467391305,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2879.403413165065,
+                "y": 1598.730340838472
+            }
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg4.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg4.json#bldg4": {
+            "scaleInDock": 1
+        },
+        "campus-1.json": {
+            "scale": 0.25,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 3574,
+                "y": 1600
+            }
+        },
+        "campus-1.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-1.json#campus-1": {
+            "scaleInDock": 0.25
+        },
+        "campus-2.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1966,
+                "y": 1604
+            }
+        },
+        "campus-2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "campus-2.json#campus-2": {
+            "scaleInDock": 1
+        },
+        "campus-ext.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 3087,
+                "y": 1980
+            }
+        },
+        "campus-ext.json#Collides": {
+            "scaleInDock": 0.75
+        },
+        "campus-ext.json#campus-ext": {
+            "scaleInDock": 1
+        },
+        "campus-ext.json#campus-ext-overlay": {
+            "scaleInDock": 1
+        },
+        "campus-ext.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 400,
+    "map.lastUsedFormat": "json",
+    "map.width": 500,
+    "openFiles": [
+    ],
+    "project": "neooverse-campus.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg3.json",
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg4.json",
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg2.json",
+        "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx"
+}
