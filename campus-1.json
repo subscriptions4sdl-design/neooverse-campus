@@ -1258,7 +1258,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/ihc01.neooverse.online\/video-handler-2\/"
+                         "value":"https:\/\/embed.windy.com\/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=\u00b0C&metricWind=km\/h&zoom=9&overlay=wind&product=ecmwf&level=surface&lat=24.767&lon=56.533"
                         }]
                 }, 
                 {
@@ -1267,7 +1267,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/ihc01.neooverse.online\/video-handler-3\/"
+                         "value":"https:\/\/ihc01.neooverse.online\/video-library\/"
                         }]
                 }, 
                 {
