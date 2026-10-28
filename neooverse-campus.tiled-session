@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "campus-1.json",
+    "activeFile": "campus-2.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -80,12 +80,40 @@
         "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg4.json#bldg4": {
             "scaleInDock": 1
         },
-        "campus-1.json": {
-            "scale": 0.33,
-            "selectedLayer": 8,
+        "D:/neooverse/Virtual Spaces/Projects/virtual-expo/hall-a.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1656.060606060606,
-                "y": 1363.6363636363637
+                "x": 2042,
+                "y": 1780
+            }
+        },
+        "D:/neooverse/Virtual Spaces/Projects/virtual-expo/hall-a.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/neooverse/Virtual Spaces/Projects/virtual-expo/hall-a.json#hall-a": {
+            "scaleInDock": 1
+        },
+        "E:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3444.666666666666,
+                "y": 1137.3333333333333
+            }
+        },
+        "E:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "E:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json#bldg1": {
+            "scaleInDock": 1
+        },
+        "campus-1.json": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 3098.25,
+                "y": 1445.5
             }
         },
         "campus-1.json#Collides": {
@@ -93,14 +121,15 @@
             "scaleInEditor": 1
         },
         "campus-1.json#campus-1": {
-            "scaleInDock": 0.25
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.25
         },
         "campus-2.json": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 0.25,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 2765,
-                "y": 2158
+                "x": 3446,
+                "y": 1452
             }
         },
         "campus-2.json#Collides": {
@@ -108,14 +137,15 @@
             "scaleInEditor": 1
         },
         "campus-2.json#campus-2": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.25
         },
         "campus-ext.json": {
             "scale": 0.25,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 5250,
-                "y": 2400
+                "x": 2560,
+                "y": 2252
             }
         },
         "campus-ext.json#Collides": {
@@ -142,8 +172,9 @@
     "project": "neooverse-campus.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "campus-2.json",
+        "E:/neooverse/Virtual Spaces/Projects/social-hub/bldg1.json",
         "campus-1.json",
+        "campus-2.json",
         "campus-ext.json",
         "campus-ext.tsx",
         "D:/neooverse/Virtual Spaces/Projects/social-hub/bldg3.json",
